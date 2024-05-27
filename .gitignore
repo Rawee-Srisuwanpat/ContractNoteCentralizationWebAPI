@@ -1,0 +1,17 @@
+.vs/
+/ContractNoteCentralizationAPI/bin
+/ContractNoteCentralizationAPI/obj
+
+*.dll
+*.pdb
+**/Debug
+**/.vs
+**/obj
+**/bin
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
